@@ -1,0 +1,209 @@
+---------------------------------------------------------------------
+Results for m1_00_C11H21Cl3_1_CG4.all 
+
+Average dfH = -94.56 
+
+Uncertainty = 1.66
+Computational contribution = 1.64
+Experimental contribution = 0.27
+---------------------------------------------------------------------
+Number of reactions with all coeficients ≤  3.0 : 143  of  931
+Parameters:
+h1 = 2.49 
+
+Summ of all weights = 32.65
+---------------------------------------------------------------------
+Average values and MSE of reaction characteristics:
+
+                         Mean       St dev          Min          Max
+             dfH       -94.56         0.82       -98.93       -92.69
+       n+dn_priv         5.53         0.90         4.00         8.00
+             drH        21.99         5.15         2.68        46.07
+         ddHcorr        -0.67         0.89        -4.42         1.93
+             drE        22.66         5.53         3.34        50.50
+             u/2         0.13         0.04         0.09         0.70
+
+
+---------------------------------------------------------------------
+143 reactions with the best weights:
+---------------------------------------------------------------------
+       weight     dfH  dn  n+|dn|      u     drH  ddHcorr     drE                                                                     reaction_names
+50   0.583161 -95.541   0    4.00  0.267  25.689   -1.838  27.527                3*Cl3C11H21+3*Chloromethane(g)->2*Hexachloroethane(g)+4*n-Octane(g)
+4    0.709872 -94.945   0    4.00  0.242  22.989   -1.253  24.242                         2*Cl3C11H21+2*Ethane(g)->Hexachloroethane(g)+3*n-Octane(g)
+434  0.379294 -95.116   0    4.20  0.330  20.247   -0.924  21.171                   10*Cl3C11H21+11*Ethane(g)->6*Pentachloroethane(g)+15*n-Octane(g)
+436  0.471896 -95.670   0    4.40  0.293  28.620   -1.987  30.607              10*Cl3C11H21+12*Chloroethane(g)->7*Hexachloroethane(g)+15*n-Octane(g)
+439  0.360987 -96.181   0    4.40  0.335  26.952   -2.431  29.383           10*Cl3C11H21+12*Dichloromethane(g)->9*Hexachloroethane(g)+13*n-Octane(g)
+442  0.585693 -94.826   0    4.40  0.263  22.966   -1.240  24.206                   10*Cl3C11H21+12*Propane(g)->5*Hexachloroethane(g)+17*n-Octane(g)
+86   0.371123 -94.629   0    4.50  0.328  17.218   -0.460  17.678              4*Cl3C11H21+5*Ethane(g)->6*n-Octane(g)+3*1,1,2,2-Tetrachloroethane(g)
+88   0.446604 -94.849   0    4.50  0.299  18.012   -0.728  18.740              4*Cl3C11H21+5*Ethane(g)->3*1,1,1,2-Tetrachloroethane(g)+6*n-Octane(g)
+301  0.985902 -94.548   0    4.57  0.200  19.021   -0.350  19.371                 7*Cl3C11H21+9*Methane(g)->7*1,1,1-Trichloroethane(g)+9*n-Octane(g)
+298  0.421164 -93.835   0    4.57  0.306  17.644    0.452  17.192                 7*Cl3C11H21+9*Methane(g)->7*1,1,2-Trichloroethane(g)+9*n-Octane(g)
+463  0.637737 -94.989   0    4.60  0.248  23.024   -1.234  24.258                   10*Cl3C11H21+13*Ethane(g)->18*n-Heptane(g)+5*Hexachloroethane(g)
+342  0.191696 -96.025   0    4.75  0.445  25.442   -1.613  27.055              8*Cl3C11H21+11*Chloroethane(g)->7*Pentachloroethane(g)+12*n-Octane(g)
+345  0.821213 -94.162   0    4.75  0.215  24.640   -0.988  25.628                   8*Cl3C11H21+11*Ethane(g)->6*Tetrachloromethane(g)+13*n-Octane(g)
+193  0.336047 -95.160   0    4.80  0.334  20.282   -0.905  21.187                     5*Cl3C11H21+7*Ethane(g)->3*Pentachloroethane(g)+9*n-Heptane(g)
+469  0.826293 -94.865   0    4.80  0.213  26.561   -0.609  27.170                   10*Cl3C11H21+14*Methane(g)->19*n-Hexane(g)+5*Hexachloroethane(g)
+305  0.941710 -93.604   0    4.86  0.198  24.303    0.256  24.047                          7*Cl3C11H21+10*Methane(g)->7*Chloroform(g)+10*n-Octane(g)
+27   0.261175 -96.527   0    5.00  0.368  27.972   -2.710  30.682             2*Cl3C11H21+3*Dichloromethane(g)->3*n-Heptane(g)+2*Hexachloroethane(g)
+28   0.339018 -94.026   0    5.00  0.323  14.411   -0.125  14.536                  2*Cl3C11H21+3*Ethane(g)->2*1,1,2-Trichloroethane(g)+3*n-Octane(g)
+32   0.229004 -96.372   0    5.00  0.393  34.484   -2.270  36.754           2*Cl3C11H21+3*1,1-Dichloroethane(g)->2*Hexachloroethane(g)+3*n-Octane(g)
+129  0.292058 -94.480   0    5.00  0.348  17.189   -0.444  17.633             4*Cl3C11H21+6*Propane(g)->7*n-Octane(g)+3*1,1,2,2-Tetrachloroethane(g)
+29   0.698654 -94.739   0    5.00  0.225  15.787   -0.927  16.714                  2*Cl3C11H21+3*Ethane(g)->2*1,1,1-Trichloroethane(g)+3*n-Octane(g)
+125  0.182693 -96.638   0    5.00  0.440  26.407   -2.555  28.962                   4*Cl3C11H21+6*Chloroform(g)->5*Hexachloroethane(g)+5*n-Octane(g)
+34   0.875458 -94.554   0    5.00  0.201  19.589   -0.238  19.827                2*Cl3C11H21+3*Methane(g)->2*1,1,1-Trichloroethane(g)+3*n-Heptane(g)
+30   0.400972 -94.855   0    5.00  0.297  22.981   -1.241  24.222                       2*Cl3C11H21+3*n-Butane(g)->Hexachloroethane(g)+4*n-Octane(g)
+137  0.343255 -94.700   0    5.00  0.321  17.983   -0.711  18.694             4*Cl3C11H21+6*Propane(g)->3*1,1,1,2-Tetrachloroethane(g)+7*n-Octane(g)
+31   0.375276 -93.840   0    5.00  0.307  18.212    0.564  17.648                2*Cl3C11H21+3*Methane(g)->3*n-Heptane(g)+2*1,1,2-Trichloroethane(g)
+335  0.714864 -94.689   0    5.14  0.217  29.746   -1.768  31.514            7*Cl3C11H21+11*Chloromethane(g)->8*Tetrachloromethane(g)+10*n-Octane(g)
+431  0.417888 -94.836   0    5.25  0.278  22.999   -1.213  24.212                   8*Cl3C11H21+13*Propane(g)->17*n-Heptane(g)+4*Hexachloroethane(g)
+294  0.142413 -95.461   0    5.33  0.468  21.833   -1.039  22.872       6*Cl3C11H21+10*Chloroethane(g)->9*n-Octane(g)+7*1,1,2,2-Tetrachloroethane(g)
+289  0.178520 -95.803   0    5.33  0.418  23.068   -1.455  24.523       6*Cl3C11H21+10*Chloroethane(g)->7*1,1,1,2-Tetrachloroethane(g)+9*n-Octane(g)
+71   0.594798 -93.816   0    5.33  0.229  20.711   -0.385  21.096                             3*Cl3C11H21+5*Ethane(g)->3*Chloroform(g)+5*n-Octane(g)
+81   0.787651 -93.610   0    5.33  0.199  24.934    0.380  24.554                           3*Cl3C11H21+5*Methane(g)->3*Chloroform(g)+5*n-Heptane(g)
+157  1.000000 -94.037   0    5.50  0.170  29.094   -0.185  29.279                    4*Cl3C11H21+7*Methane(g)->8*n-Hexane(g)+3*Tetrachloromethane(g)
+185  0.514519 -95.097   0    5.50  0.237  23.050   -1.234  24.284                       4*Cl3C11H21+7*Ethane(g)->9*n-Hexane(g)+2*Hexachloroethane(g)
+242  0.255501 -94.070   0    5.60  0.328  14.446   -0.107  14.553                 5*Cl3C11H21+9*Ethane(g)->9*n-Heptane(g)+5*1,1,2-Trichloroethane(g)
+268  0.134544 -94.548   0    5.60  0.452  14.123   -0.501  14.624           5*Cl3C11H21+9*Chloromethane(g)->8*1,1,2-Trichloroethane(g)+6*n-Octane(g)
+267  0.510699 -94.784   0    5.60  0.232  15.822   -0.908  16.730                 5*Cl3C11H21+9*Ethane(g)->5*1,1,1-Trichloroethane(g)+9*n-Heptane(g)
+265  0.794539 -94.594   0    5.60  0.186  20.362   -0.104  20.466                 5*Cl3C11H21+9*Methane(g)->9*n-Hexane(g)+5*1,1,1-Trichloroethane(g)
+261  0.416174 -95.690   0    5.60  0.257  16.325   -1.784  18.109           5*Cl3C11H21+9*Chloromethane(g)->8*1,1,1-Trichloroethane(g)+6*n-Octane(g)
+252  0.311622 -93.880   0    5.60  0.297  18.986    0.698  18.288                 5*Cl3C11H21+9*Methane(g)->9*n-Hexane(g)+5*1,1,2-Trichloroethane(g)
+251  0.406625 -94.561   0    5.60  0.260  15.752   -0.907  16.659                 5*Cl3C11H21+9*Propane(g)->5*1,1,1-Trichloroethane(g)+9*n-Octane(g)
+245  0.225678 -93.848   0    5.60  0.349  14.376   -0.105  14.481                 5*Cl3C11H21+9*Propane(g)->5*1,1,2-Trichloroethane(g)+9*n-Octane(g)
+306  0.060921 -97.069   0    5.67  0.660  30.944   -1.764  32.708         6*Cl3C11H21+11*1,1-Dichloroethane(g)->8*Pentachloroethane(g)+9*n-Octane(g)
+408  0.103423 -97.076   0    5.71  0.500  27.248   -2.850  30.098               7*Cl3C11H21+13*Chloroform(g)->10*n-Heptane(g)+10*Hexachloroethane(g)
+455  0.491838 -94.785   0    5.75  0.227  27.771   -0.404  28.175                   8*Cl3C11H21+15*Methane(g)->19*n-Pentane(g)+4*Hexachloroethane(g)
+465  0.172773 -94.516   0    5.75  0.383  17.208   -0.445  17.653          8*Cl3C11H21+15*n-Butane(g)->17*n-Octane(g)+6*1,1,2,2-Tetrachloroethane(g)
+466  0.196646 -94.737   0    5.75  0.359  18.002   -0.713  18.715          8*Cl3C11H21+15*n-Butane(g)->6*1,1,1,2-Tetrachloroethane(g)+17*n-Octane(g)
+496  0.488404 -94.836   0    5.78  0.226  30.810   -1.908  32.718          9*Cl3C11H21+17*Chloromethane(g)->11*Tetrachloromethane(g)+15*n-Heptane(g)
+191  0.250284 -95.001   0    6.00  0.295  18.073   -0.709  18.782              4*Cl3C11H21+8*Ethane(g)->9*n-Hexane(g)+3*1,1,1,2-Tetrachloroethane(g)
+203  0.124065 -96.096   0    6.00  0.419  20.140   -1.532  21.672       4*Cl3C11H21+8*Chloromethane(g)->7*n-Hexane(g)+5*1,1,1,2-Tetrachloroethane(g)
+209  0.207485 -94.781   0    6.00  0.324  17.279   -0.441  17.720              4*Cl3C11H21+8*Ethane(g)->9*n-Hexane(g)+3*1,1,2,2-Tetrachloroethane(g)
+210  0.096536 -95.729   0    6.00  0.475  18.817   -1.086  19.903       4*Cl3C11H21+8*Chloromethane(g)->7*n-Hexane(g)+5*1,1,2,2-Tetrachloroethane(g)
+0    0.679783 -93.654   0    6.00  0.179  25.794    0.529  25.265                                Cl3C11H21+2*Methane(g)->2*n-Hexane(g)+Chloroform(g)
+48   0.359920 -93.518   0    6.00  0.246  11.495   -0.236  11.731                     2*Cl3C11H21+4*Ethane(g)->3*1,1-Dichloroethane(g)+3*n-Octane(g)
+51   0.069703 -95.356   0    6.00  0.559  37.393   -1.906  39.299        2*Cl3C11H21+4*1,1,1-Trichloroethane(g)->3*Hexachloroethane(g)+3*n-Octane(g)
+1    0.296577 -93.618   0    6.00  0.271  20.672   -0.363  21.035                                Cl3C11H21+2*Propane(g)->Chloroform(g)+2*n-Octane(g)
+44   0.159965 -94.845   0    6.00  0.369  22.933   -1.259  24.192                      2*Cl3C11H21+4*n-Pentane(g)->Hexachloroethane(g)+5*n-Octane(g)
+2    0.387775 -93.865   0    6.00  0.237  20.749   -0.365  21.114                                Cl3C11H21+2*Ethane(g)->Chloroform(g)+2*n-Heptane(g)
+39   0.041324 -96.782   0    6.00  0.726  40.146   -3.509  43.655        2*Cl3C11H21+4*1,1,2-Trichloroethane(g)->3*Hexachloroethane(g)+3*n-Octane(g)
+332  0.056845 -97.033   0    6.00  0.619  18.589   -1.961  20.550         6*Cl3C11H21+12*Tetrachloromethane(g)->11*Hexachloroethane(g)+7*n-Octane(g)
+484  0.249786 -94.010   0    6.25  0.271  24.644   -0.939  25.583                 8*Cl3C11H21+17*Propane(g)->6*Tetrachloromethane(g)+19*n-Heptane(g)
+438  0.281408 -94.288   0    6.29  0.252  24.868   -1.019  25.887                   7*Cl3C11H21+15*Chloromethane(g)->12*Chloroform(g)+10*n-Octane(g)
+437  0.172356 -96.337   0    6.29  0.322  28.838   -2.500  31.338             7*Cl3C11H21+15*Chloromethane(g)->16*n-Pentane(g)+6*Hexachloroethane(g)
+364  0.153678 -94.881   0    6.33  0.335  23.029   -1.208  24.237                  6*Cl3C11H21+13*n-Butane(g)->16*n-Heptane(g)+3*Hexachloroethane(g)
+348  0.383732 -93.119   0    6.33  0.212  23.517    1.209  22.308                    6*Cl3C11H21+13*Methane(g)->10*n-Heptane(g)+9*Dichloromethane(g)
+596  0.397705 -93.306   0    6.40  0.203  17.073    0.766  16.307                10*Cl3C11H21+22*Methane(g)->17*n-Hexane(g)+15*1,1-Dichloroethane(g)
+302  0.082762 -95.006   0    6.40  0.445  20.186   -0.930  21.116                 5*Cl3C11H21+11*n-Pentane(g)->3*Pentachloroethane(g)+13*n-Octane(g)
+237  0.153569 -95.946   0    6.50  0.314  20.944   -2.058  23.002            4*Cl3C11H21+9*Chloroethane(g)->7*1,1,1-Trichloroethane(g)+6*n-Octane(g)
+238  0.194516 -94.572   0    6.50  0.279  15.787   -0.879  16.666                4*Cl3C11H21+9*Propane(g)->4*1,1,1-Trichloroethane(g)+9*n-Heptane(g)
+239  0.098034 -93.891   0    6.50  0.393  14.398   -0.107  14.505                4*Cl3C11H21+9*n-Butane(g)->4*1,1,2-Trichloroethane(g)+9*n-Octane(g)
+233  0.378533 -94.517   0    6.50  0.200  21.508    0.090  21.418                4*Cl3C11H21+9*Methane(g)->9*n-Pentane(g)+4*1,1,1-Trichloroethane(g)
+236  0.423877 -93.952   0    6.50  0.189  30.368    0.030  30.338                  4*Cl3C11H21+9*Methane(g)->10*n-Pentane(g)+3*Tetrachloromethane(g)
+234  0.161704 -93.804   0    6.50  0.306  20.132    0.891  19.241                4*Cl3C11H21+9*Methane(g)->9*n-Pentane(g)+4*1,1,2-Trichloroethane(g)
+231  0.147864 -94.178   0    6.50  0.320  14.471   -0.106  14.577                  4*Cl3C11H21+9*Ethane(g)->9*n-Hexane(g)+4*1,1,2-Trichloroethane(g)
+221  0.236550 -93.399   0    6.50  0.253  18.036    0.219  17.817                        4*Cl3C11H21+9*Ethane(g)->6*Dichloromethane(g)+7*n-Octane(g)
+226  0.114908 -93.859   0    6.50  0.363  14.411   -0.077  14.488                4*Cl3C11H21+9*Propane(g)->9*n-Heptane(g)+4*1,1,2-Trichloroethane(g)
+225  0.149730 -94.604   0    6.50  0.318  15.775   -0.909  16.684                4*Cl3C11H21+9*n-Butane(g)->4*1,1,1-Trichloroethane(g)+9*n-Octane(g)
+212  0.310012 -94.891   0    6.50  0.221  15.848   -0.908  16.756                  4*Cl3C11H21+9*Ethane(g)->9*n-Hexane(g)+4*1,1,1-Trichloroethane(g)
+227  0.057535 -94.697   0    6.50  0.513  18.535   -0.655  19.190            4*Cl3C11H21+9*Chloroethane(g)->7*1,1,2-Trichloroethane(g)+6*n-Octane(g)
+602  0.217835 -93.562   0    6.60  0.253  11.530   -0.217  11.747                10*Cl3C11H21+23*Ethane(g)->15*1,1-Dichloroethane(g)+18*n-Heptane(g)
+120  0.014784 -98.181   0    6.67  0.944  19.191   -2.165  21.356                 3*Cl3C11H21+7*Chloroform(g)->6*Pentachloroethane(g)+4*n-Heptane(g)
+107  0.039708 -97.691   0    6.67  0.576  28.350   -3.264  31.614                   3*Cl3C11H21+7*Chloroform(g)->5*n-Hexane(g)+5*Hexachloroethane(g)
+104  0.267314 -95.080   0    6.67  0.222  32.276   -2.129  34.405              3*Cl3C11H21+7*Chloromethane(g)->6*n-Hexane(g)+4*Tetrachloromethane(g)
+367  0.169246 -94.905   0    6.67  0.279  23.020   -1.203  24.223                    6*Cl3C11H21+14*Propane(g)->17*n-Hexane(g)+3*Hexachloroethane(g)
+607  0.137343 -93.280   0    6.80  0.292  11.448   -0.210  11.658                10*Cl3C11H21+24*Propane(g)->15*1,1-Dichloroethane(g)+19*n-Octane(g)
+57   0.015795 -96.480   0    7.00  0.784  26.757   -0.834  27.591  2*Cl3C11H21+5*1,1-Dichloroethane(g)->3*n-Octane(g)+4*1,1,2,2-Tetrachloroethane(g)
+60   0.084982 -93.666   0    7.00  0.338  20.697   -0.365  21.062                           2*Cl3C11H21+5*n-Butane(g)->2*Chloroform(g)+5*n-Octane(g)
+61   0.247644 -93.570   0    7.00  0.198  27.068    0.744  26.324                           2*Cl3C11H21+5*Methane(g)->5*n-Pentane(g)+2*Chloroform(g)
+63   0.134169 -95.095   0    7.00  0.269  23.073   -1.244  24.317                        2*Cl3C11H21+5*Ethane(g)->6*n-Pentane(g)+Hexachloroethane(g)
+420  0.138250 -94.408   0    7.00  0.265  25.593   -1.107  26.700                  6*Cl3C11H21+15*Chloromethane(g)->11*Chloroform(g)+10*n-Heptane(g)
+65   0.257961 -93.163   0    7.00  0.194  24.377    1.359  23.018                       2*Cl3C11H21+5*Methane(g)->4*n-Hexane(g)+3*Dichloromethane(g)
+433  0.041616 -97.629   0    7.00  0.483  31.305   -3.701  35.006           6*Cl3C11H21+15*Dichloromethane(g)->13*n-Pentane(g)+8*Hexachloroethane(g)
+56   0.019927 -97.068   0    7.00  0.698  28.875   -1.548  30.423  2*Cl3C11H21+5*1,1-Dichloroethane(g)->4*1,1,1,2-Tetrachloroethane(g)+3*n-Octane(g)
+258  0.049248 -94.724   0    7.00  0.444  17.942   -0.735  18.677         4*Cl3C11H21+10*n-Pentane(g)->3*1,1,1,2-Tetrachloroethane(g)+11*n-Octane(g)
+255  0.045289 -94.504   0    7.00  0.463  17.148   -0.468  17.616         4*Cl3C11H21+10*n-Pentane(g)->11*n-Octane(g)+3*1,1,2,2-Tetrachloroethane(g)
+66   0.113090 -93.630   0    7.00  0.293  20.711   -0.332  21.043                           2*Cl3C11H21+5*Propane(g)->2*Chloroform(g)+5*n-Heptane(g)
+55   0.193492 -93.985   0    7.00  0.224  20.778   -0.364  21.142                             2*Cl3C11H21+5*Ethane(g)->5*n-Hexane(g)+2*Chloroform(g)
+331  0.009723 -97.378   0    7.20  0.904  45.328   -4.167  49.495      5*Cl3C11H21+13*1,1,2-Trichloroethane(g)->9*n-Heptane(g)+9*Hexachloroethane(g)
+327  0.017543 -95.523   0    7.20  0.673  41.749   -2.083  43.832      5*Cl3C11H21+13*1,1,1-Trichloroethane(g)->9*n-Heptane(g)+9*Hexachloroethane(g)
+326  0.064863 -95.266   0    7.20  0.350  20.331   -0.915  21.246                   5*Cl3C11H21+13*Ethane(g)->3*Pentachloroethane(g)+15*n-Pentane(g)
+645  0.116641 -93.451   0    7.20  0.261  18.077    0.241  17.836                   10*Cl3C11H21+26*Ethane(g)->21*n-Heptane(g)+15*Dichloromethane(g)
+545  0.163162 -93.234   0    7.25  0.215  18.155    0.949  17.206                8*Cl3C11H21+21*Methane(g)->17*n-Pentane(g)+12*1,1-Dichloroethane(g)
+548  0.026449 -97.594   0    7.25  0.534  43.165   -3.014  46.179        8*Cl3C11H21+21*1,1-Dichloroethane(g)->18*n-Hexane(g)+11*Hexachloroethane(g)
+656  0.067231 -93.132   0    7.40  0.309  17.984    0.249  17.735                   10*Cl3C11H21+27*Propane(g)->15*Dichloromethane(g)+22*n-Octane(g)
+670  0.020617 -94.876   0    7.40  0.558  19.395   -0.742  20.137       10*Cl3C11H21+27*Chloroethane(g)->18*n-Heptane(g)+19*1,1,2-Trichloroethane(g)
+661  0.054563 -96.231   0    7.40  0.343  22.010   -2.266  24.276       10*Cl3C11H21+27*Chloroethane(g)->19*1,1,1-Trichloroethane(g)+18*n-Heptane(g)
+285  0.047142 -94.778   0    7.50  0.349  17.302   -0.451  17.753           4*Cl3C11H21+11*Ethane(g)->12*n-Pentane(g)+3*1,1,2,2-Tetrachloroethane(g)
+280  0.055380 -94.999   0    7.50  0.322  18.096   -0.719  18.815           4*Cl3C11H21+11*Ethane(g)->12*n-Pentane(g)+3*1,1,1,2-Tetrachloroethane(g)
+279  0.032706 -94.024   0    7.50  0.419  24.563   -0.996  25.559                4*Cl3C11H21+11*n-Pentane(g)->3*Tetrachloromethane(g)+12*n-Octane(g)
+277  0.096445 -93.670   0    7.50  0.244  11.555   -0.217  11.772                    4*Cl3C11H21+11*Ethane(g)->9*n-Hexane(g)+6*1,1-Dichloroethane(g)
+269  0.004815 -96.151   0    7.50  1.092  32.511   -0.914  33.425      4*Cl3C11H21+11*1,1,1-Trichloroethane(g)->9*Pentachloroethane(g)+6*n-Octane(g)
+270  0.003588 -98.113   0    7.50  1.265  36.297   -3.119  39.416      4*Cl3C11H21+11*1,1,2-Trichloroethane(g)->9*Pentachloroethane(g)+6*n-Octane(g)
+468  0.037564 -95.643   0    7.67  0.355  37.145   -3.250  40.395        6*Cl3C11H21+17*Dichloromethane(g)->13*Tetrachloromethane(g)+10*n-Heptane(g)
+583  0.044293 -93.292   0    7.75  0.311  11.485   -0.180  11.665                8*Cl3C11H21+23*Propane(g)->12*1,1-Dichloroethane(g)+19*n-Heptane(g)
+77   0.070357 -93.079   0    8.00  0.211  25.650    1.574  24.076                      2*Cl3C11H21+6*Methane(g)->5*n-Pentane(g)+3*Dichloromethane(g)
+9    0.047425 -94.889   0    8.00  0.257  15.871   -0.918  16.789                     Cl3C11H21+3*Ethane(g)->3*n-Pentane(g)+1,1,1-Trichloroethane(g)
+79   0.002077 -95.328   0    8.00  1.228  42.897   -3.354  46.251    2*Cl3C11H21+6*1,1,1,2-Tetrachloroethane(g)->5*Hexachloroethane(g)+3*n-Octane(g)
+76   0.004450 -98.178   0    8.00  0.839  16.429   -2.302  18.731           2*Cl3C11H21+6*Tetrachloromethane(g)->3*n-Hexane(g)+5*Hexachloroethane(g)
+73   0.023130 -93.338   0    8.00  0.368  11.478   -0.212  11.690                   2*Cl3C11H21+6*n-Butane(g)->3*1,1-Dichloroethane(g)+5*n-Octane(g)
+5    0.064718 -92.685   0    8.00  0.220  16.456    1.928  14.528                              Cl3C11H21+3*Methane(g)->3*Chloroethane(g)+n-Octane(g)
+6    0.032806 -96.423   0    8.00  0.309  16.740   -2.349  19.089            Cl3C11H21+3*Chloromethane(g)->2*n-Pentane(g)+2*1,1,1-Trichloroethane(g)
+7    0.035511 -93.760   0    8.00  0.297  21.972    1.197  20.775                     Cl3C11H21+3*Methane(g)->3*n-Butane(g)+1,1,2-Trichloroethane(g)
+80   0.001742 -96.209   0    8.00  1.341  46.074   -4.425  50.499    2*Cl3C11H21+6*1,1,2,2-Tetrachloroethane(g)->5*Hexachloroethane(g)+3*n-Octane(g)
+8    0.090541 -94.474   0    8.00  0.186  23.349    0.395  22.954                     Cl3C11H21+3*Methane(g)->3*n-Butane(g)+1,1,1-Trichloroethane(g)
+3    0.001600 -98.931   0    8.00  1.399   2.677   -0.667   3.344              Cl3C11H21+3*Tetrachloromethane(g)->3*Pentachloroethane(g)+n-Octane(g)
+10   0.006466 -98.431   0    8.00  0.696  29.881   -3.850  33.731                    Cl3C11H21+3*Chloroform(g)->2*n-Pentane(g)+2*Hexachloroethane(g)
+13   0.023641 -93.931   0    8.00  0.364  14.433   -0.067  14.500                     Cl3C11H21+3*Propane(g)->3*n-Hexane(g)+1,1,2-Trichloroethane(g)
+12   0.016328 -94.590   0    8.00  0.438  15.704   -0.936  16.640                   Cl3C11H21+3*n-Pentane(g)->1,1,1-Trichloroethane(g)+3*n-Octane(g)
+26   0.026165 -94.176   0    8.00  0.346  14.495   -0.117  14.612                     Cl3C11H21+3*Ethane(g)->3*n-Pentane(g)+1,1,2-Trichloroethane(g)
+14   0.039670 -94.645   0    8.00  0.281  15.810   -0.868  16.678                     Cl3C11H21+3*Propane(g)->3*n-Hexane(g)+1,1,1-Trichloroethane(g)
+15   0.024036 -96.914   0    8.00  0.361  31.105   -3.032  34.137                    Cl3C11H21+3*Chloromethane(g)->3*n-Butane(g)+Hexachloroethane(g)
+16   0.010060 -94.996   0    8.00  0.558  13.987   -0.746  14.733            Cl3C11H21+3*Chloromethane(g)->2*n-Pentane(g)+2*1,1,2-Trichloroethane(g)
+17   0.014933 -97.419   0    8.00  0.458  11.290   -3.220  14.510             Cl3C11H21+3*Dichloromethane(g)->3*1,1,1-Trichloroethane(g)+n-Octane(g)
+72   0.047058 -95.293   0    8.00  0.258  34.458   -2.469  36.927             2*Cl3C11H21+6*Chloromethane(g)->5*n-Pentane(g)+3*Tetrachloromethane(g)
+18   0.016784 -93.920   0    8.00  0.432  14.452   -0.069  14.521                   Cl3C11H21+3*n-Butane(g)->3*n-Heptane(g)+1,1,2-Trichloroethane(g)
+19   0.003255 -97.948   0    8.00  0.981   9.917   -1.755  11.672              Cl3C11H21+3*Chloroform(g)->3*1,1,1,2-Tetrachloroethane(g)+n-Octane(g)
+20   0.002502 -97.066   0    8.00  1.119   6.740   -0.684   7.424              Cl3C11H21+3*Chloroform(g)->n-Octane(g)+3*1,1,2,2-Tetrachloroethane(g)
+21   0.042968 -94.612   0    8.00  0.270  26.585   -1.255  27.840                        Cl3C11H21+3*Chloromethane(g)->2*n-Hexane(g)+2*Chloroform(g)
+22   0.012732 -93.876   0    8.00  0.496  14.327   -0.134  14.461                   Cl3C11H21+3*n-Pentane(g)->1,1,2-Trichloroethane(g)+3*n-Octane(g)
+23   0.023641 -94.634   0    8.00  0.364  15.829   -0.871  16.700                   Cl3C11H21+3*n-Butane(g)->1,1,1-Trichloroethane(g)+3*n-Heptane(g)
+24   0.018188 -96.908   0    8.00  0.415  37.150   -3.079  40.229                    Cl3C11H21+3*Chloroethane(g)->3*n-Pentane(g)+Hexachloroethane(g)
+11   0.004514 -95.279   0    8.00  0.833   7.161   -0.815   7.976             Cl3C11H21+3*Dichloromethane(g)->3*1,1,2-Trichloroethane(g)+n-Octane(g)
+25   0.024996 -93.880   0    8.00  0.354   8.099   -0.973   9.072                  Cl3C11H21+3*Chloromethane(g)->3*1,1-Dichloroethane(g)+n-Octane(g)
+
+
+
+
+---------------------------------------------------------------------
+10 reactions with the worst weights:
+---------------------------------------------------------------------
+      weight     dfH  dn  n+|dn|      u     drH  ddHcorr     drE                                                          reaction_names
+20  0.002502 -97.066   0     8.0  1.119   6.740   -0.684   7.424   Cl3C11H21+3*Chloroform(g)->n-Octane(g)+3*1,1,2,2-Tetrachloroethane(g)
+19  0.003255 -97.948   0     8.0  0.981   9.917   -1.755  11.672   Cl3C11H21+3*Chloroform(g)->3*1,1,1,2-Tetrachloroethane(g)+n-Octane(g)
+11  0.004514 -95.279   0     8.0  0.833   7.161   -0.815   7.976  Cl3C11H21+3*Dichloromethane(g)->3*1,1,2-Trichloroethane(g)+n-Octane(g)
+22  0.012732 -93.876   0     8.0  0.496  14.327   -0.134  14.461        Cl3C11H21+3*n-Pentane(g)->1,1,2-Trichloroethane(g)+3*n-Octane(g)
+18  0.016784 -93.920   0     8.0  0.432  14.452   -0.069  14.521        Cl3C11H21+3*n-Butane(g)->3*n-Heptane(g)+1,1,2-Trichloroethane(g)
+24  0.018188 -96.908   0     8.0  0.415  37.150   -3.079  40.229         Cl3C11H21+3*Chloroethane(g)->3*n-Pentane(g)+Hexachloroethane(g)
+23  0.023641 -94.634   0     8.0  0.364  15.829   -0.871  16.700        Cl3C11H21+3*n-Butane(g)->1,1,1-Trichloroethane(g)+3*n-Heptane(g)
+25  0.024996 -93.880   0     8.0  0.354   8.099   -0.973   9.072       Cl3C11H21+3*Chloromethane(g)->3*1,1-Dichloroethane(g)+n-Octane(g)
+21  0.042968 -94.612   0     8.0  0.270  26.585   -1.255  27.840             Cl3C11H21+3*Chloromethane(g)->2*n-Hexane(g)+2*Chloroform(g)
+72  0.047058 -95.293   0     8.0  0.258  34.458   -2.469  36.927  2*Cl3C11H21+6*Chloromethane(g)->5*n-Pentane(g)+3*Tetrachloromethane(g)
+
+
+
+
+---------------------------------------------------------------------
+10 reactions with the worst dHf:
+---------------------------------------------------------------------
+       weight     dfH  dn  n+|dn|      u     drH  ddHcorr     drE                                                                 reaction_names
+3    0.001600 -98.931   0    8.00  1.399   2.677   -0.667   3.344          Cl3C11H21+3*Tetrachloromethane(g)->3*Pentachloroethane(g)+n-Octane(g)
+10   0.006466 -98.431   0    8.00  0.696  29.881   -3.850  33.731                Cl3C11H21+3*Chloroform(g)->2*n-Pentane(g)+2*Hexachloroethane(g)
+120  0.014784 -98.181   0    6.67  0.944  19.191   -2.165  21.356             3*Cl3C11H21+7*Chloroform(g)->6*Pentachloroethane(g)+4*n-Heptane(g)
+76   0.004450 -98.178   0    8.00  0.839  16.429   -2.302  18.731       2*Cl3C11H21+6*Tetrachloromethane(g)->3*n-Hexane(g)+5*Hexachloroethane(g)
+270  0.003588 -98.113   0    7.50  1.265  36.297   -3.119  39.416  4*Cl3C11H21+11*1,1,2-Trichloroethane(g)->9*Pentachloroethane(g)+6*n-Octane(g)
+19   0.003255 -97.948   0    8.00  0.981   9.917   -1.755  11.672          Cl3C11H21+3*Chloroform(g)->3*1,1,1,2-Tetrachloroethane(g)+n-Octane(g)
+107  0.039708 -97.691   0    6.67  0.576  28.350   -3.264  31.614               3*Cl3C11H21+7*Chloroform(g)->5*n-Hexane(g)+5*Hexachloroethane(g)
+433  0.041616 -97.629   0    7.00  0.483  31.305   -3.701  35.006       6*Cl3C11H21+15*Dichloromethane(g)->13*n-Pentane(g)+8*Hexachloroethane(g)
+548  0.026449 -97.594   0    7.25  0.534  43.165   -3.014  46.179    8*Cl3C11H21+21*1,1-Dichloroethane(g)->18*n-Hexane(g)+11*Hexachloroethane(g)
+17   0.014933 -97.419   0    8.00  0.458  11.290   -3.220  14.510         Cl3C11H21+3*Dichloromethane(g)->3*1,1,1-Trichloroethane(g)+n-Octane(g)

@@ -1,0 +1,169 @@
+---------------------------------------------------------------------
+Results for m1_00_C12H23Cl3_CF2.all 
+
+Average dfH = -100.28 
+
+Uncertainty = 1.66
+Computational contribution = 1.64
+Experimental contribution = 0.28
+---------------------------------------------------------------------
+Number of reactions with all coeficients ≤  3.0 : 103  of  931
+Parameters:
+h1 = 2.51 
+
+Summ of all weights = 24.26
+---------------------------------------------------------------------
+Average values and MSE of reaction characteristics:
+
+                         Mean       St dev          Min          Max
+             dfH      -100.28         0.82      -103.81       -98.83
+       n+dn_priv         5.77         0.88         4.00         8.00
+             drH        22.57         4.95        12.24        49.55
+         ddHcorr        -0.55         0.84        -4.64         1.43
+             drE        23.11         5.22        12.46        54.19
+             u/2         0.14         0.04         0.10         0.51
+
+
+---------------------------------------------------------------------
+103 reactions with the best weights:
+---------------------------------------------------------------------
+       weight      dfH  dn  n+|dn|      u     drH  ddHcorr     drE                                                                        reaction_names
+13   0.893080 -100.523   0    4.00  0.240  26.296   -0.825  27.121                           2*Cl3C12H23+2*Methane(g)->Hexachloroethane(g)+3*n-Octane(g)
+195  0.759344 -100.671   0    4.33  0.258  23.782   -1.273  25.055                         6*Cl3C12H23+7*Ethane(g)->3*Hexachloroethane(g)+10*n-Octane(g)
+80   0.851334 -100.529   0    4.50  0.241  26.959   -0.694  27.653                        4*Cl3C12H23+5*Methane(g)->7*n-Heptane(g)+2*Hexachloroethane(g)
+436  0.576365 -100.533   0    4.80  0.284  23.754   -1.258  25.012                      10*Cl3C12H23+14*Propane(g)->5*Hexachloroethane(g)+19*n-Octane(g)
+264  1.000000 -100.254   0    4.86  0.214  20.172   -0.306  20.478                  7*Cl3C12H23+10*Methane(g)->7*1,1,1-Trichloroethane(g)+10*n-Octane(g)
+281  0.458620  -99.540   0    4.86  0.316  18.796    0.496  18.300                  7*Cl3C12H23+10*Methane(g)->7*1,1,2-Trichloroethane(g)+10*n-Octane(g)
+18   0.625324 -100.721   0    5.00  0.265  23.820   -1.253  25.073                           2*Cl3C12H23+3*Ethane(g)->4*n-Heptane(g)+Hexachloroethane(g)
+287  0.913553  -99.309   0    5.14  0.214  25.455    0.300  25.155                             7*Cl3C12H23+11*Methane(g)->7*Chloroform(g)+11*n-Octane(g)
+472  0.823667 -100.576   0    5.20  0.223  27.862   -0.537  28.399                      10*Cl3C12H23+16*Methane(g)->21*n-Hexane(g)+5*Hexachloroethane(g)
+177  0.340175 -100.892   0    5.20  0.347  21.078   -0.923  22.001                       5*Cl3C12H23+8*Ethane(g)->3*Pentachloroethane(g)+10*n-Heptane(g)
+58   0.388845  -99.546   0    5.33  0.316  19.427    0.620  18.807                   3*Cl3C12H23+5*Methane(g)->5*n-Heptane(g)+3*1,1,2-Trichloroethane(g)
+61   0.839989 -100.260   0    5.33  0.215  20.803   -0.182  20.985                   3*Cl3C12H23+5*Methane(g)->3*1,1,1-Trichloroethane(g)+5*n-Heptane(g)
+67   0.657564 -100.466   0    5.33  0.243  16.580   -0.947  17.527                     3*Cl3C12H23+5*Ethane(g)->3*1,1,1-Trichloroethane(g)+5*n-Octane(g)
+60   0.343932  -99.753   0    5.33  0.336  15.203   -0.146  15.349                     3*Cl3C12H23+5*Ethane(g)->3*1,1,2-Trichloroethane(g)+5*n-Octane(g)
+119  0.341142 -100.566   0    5.50  0.325  23.772   -1.259  25.031                        4*Cl3C12H23+7*n-Butane(g)->2*Hexachloroethane(g)+9*n-Octane(g)
+128  0.356326 -100.625   0    5.50  0.318  18.843   -0.727  19.570                4*Cl3C12H23+7*Ethane(g)->8*n-Heptane(g)+3*1,1,1,2-Tetrachloroethane(g)
+153  0.302735 -100.405   0    5.50  0.345  18.049   -0.460  18.509                4*Cl3C12H23+7*Ethane(g)->8*n-Heptane(g)+3*1,1,2,2-Tetrachloroethane(g)
+389  0.151930 -102.646   0    5.50  0.487  27.769   -2.792  30.561                   8*Cl3C12H23+14*Chloroform(g)->11*Hexachloroethane(g)+11*n-Octane(g)
+216  0.291616 -101.809   0    5.60  0.343  32.267   -2.353  34.620                  5*Cl3C12H23+9*Chloroethane(g)->10*n-Heptane(g)+4*Hexachloroethane(g)
+260  0.717063  -99.316   0    5.67  0.215  26.149    0.436  25.713                            6*Cl3C12H23+11*Methane(g)->6*Chloroform(g)+11*n-Heptane(g)
+279  0.538929  -99.543   0    5.67  0.248  21.503   -0.406  21.909                              6*Cl3C12H23+11*Ethane(g)->6*Chloroform(g)+11*n-Octane(g)
+421  0.347421 -100.544   0    5.75  0.302  23.791   -1.228  25.019                      8*Cl3C12H23+15*Propane(g)->19*n-Heptane(g)+4*Hexachloroethane(g)
+478  0.156843 -101.657   0    5.78  0.446  24.534   -1.572  26.106        9*Cl3C12H23+17*Chloroethane(g)->11*1,1,1,2-Tetrachloroethane(g)+15*n-Octane(g)
+465  0.126306 -101.298   0    5.78  0.497  23.240   -1.136  24.376        9*Cl3C12H23+17*Chloroethane(g)->15*n-Octane(g)+11*1,1,2,2-Tetrachloroethane(g)
+514  0.192554 -100.728   0    5.80  0.400  21.029   -0.928  21.957                    10*Cl3C12H23+19*n-Butane(g)->6*Pentachloroethane(g)+23*n-Octane(g)
+227  0.059780 -103.170   0    6.00  0.676  24.019   -2.451  26.470              5*Cl3C12H23+10*Dichloromethane(g)->7*Pentachloroethane(g)+8*n-Heptane(g)
+236  0.191190 -100.703   0    6.00  0.378  21.047   -0.897  21.944                     5*Cl3C12H23+10*Propane(g)->3*Pentachloroethane(g)+12*n-Heptane(g)
+86   0.121077 -100.333   0    6.00  0.475  14.883   -0.563  15.446              3*Cl3C12H23+6*Chloromethane(g)->5*1,1,2-Trichloroethane(g)+4*n-Octane(g)
+81   0.361229 -101.522   0    6.00  0.275  17.178   -1.899  19.077              3*Cl3C12H23+6*Chloromethane(g)->5*1,1,1-Trichloroethane(g)+4*n-Octane(g)
+0    0.703907 -100.304   0    6.00  0.197  21.663   -0.033  21.696                        Cl3C12H23+2*Methane(g)->2*n-Hexane(g)+1,1,1-Trichloroethane(g)
+2    0.233559  -99.802   0    6.00  0.342  15.242   -0.125  15.367                        Cl3C12H23+2*Ethane(g)->2*n-Heptane(g)+1,1,2-Trichloroethane(g)
+1    0.103400 -102.215   0    6.00  0.514  28.635   -1.926  30.561                      Cl3C12H23+2*Chloroethane(g)->Pentachloroethane(g)+2*n-Heptane(g)
+3    0.115658 -102.284   0    6.00  0.486  24.664   -1.877  26.541                      Cl3C12H23+2*Chloromethane(g)->Pentachloroethane(g)+2*n-Hexane(g)
+7    0.203932  -99.554   0    6.00  0.366  15.164   -0.123  15.287                        Cl3C12H23+2*Propane(g)->1,1,2-Trichloroethane(g)+2*n-Octane(g)
+6    0.341095 -100.268   0    6.00  0.283  16.541   -0.925  17.466                        Cl3C12H23+2*Propane(g)->1,1,1-Trichloroethane(g)+2*n-Octane(g)
+26   0.430177 -100.840   0    6.00  0.252  23.849   -1.252  25.101                            2*Cl3C12H23+4*Ethane(g)->5*n-Hexane(g)+Hexachloroethane(g)
+4    0.433611 -100.515   0    6.00  0.251  16.618   -0.927  17.545                        Cl3C12H23+2*Ethane(g)->1,1,1-Trichloroethane(g)+2*n-Heptane(g)
+5    0.295598  -99.591   0    6.00  0.304  20.287    0.769  19.518                        Cl3C12H23+2*Methane(g)->2*n-Hexane(g)+1,1,2-Trichloroethane(g)
+531  0.209360 -101.011   0    6.20  0.338  21.107   -0.923  22.030                      10*Cl3C12H23+21*Ethane(g)->6*Pentachloroethane(g)+25*n-Hexane(g)
+504  0.045426 -103.091   0    6.22  0.720  33.358   -1.911  35.269          9*Cl3C12H23+19*1,1-Dichloroethane(g)->13*Pentachloroethane(g)+15*n-Octane(g)
+447  0.400880 -100.487   0    6.25  0.240  29.199   -0.312  29.511                      8*Cl3C12H23+17*Methane(g)->21*n-Pentane(g)+4*Hexachloroethane(g)
+454  0.156594 -100.448   0    6.25  0.384  18.793   -0.731  19.524             8*Cl3C12H23+17*n-Butane(g)->6*1,1,1,2-Tetrachloroethane(g)+19*n-Octane(g)
+455  0.139395 -100.228   0    6.25  0.407  17.998   -0.463  18.461             8*Cl3C12H23+17*n-Butane(g)->19*n-Octane(g)+6*1,1,2,2-Tetrachloroethane(g)
+359  0.073596 -103.129   0    6.29  0.553  28.694   -3.117  31.811                  7*Cl3C12H23+15*Chloroform(g)->11*n-Heptane(g)+11*Hexachloroethane(g)
+303  0.314253  -99.244   0    6.33  0.263  12.287   -0.256  12.543                      6*Cl3C12H23+13*Ethane(g)->9*1,1-Dichloroethane(g)+10*n-Octane(g)
+258  0.193380 -100.645   0    6.40  0.327  26.645    0.051  26.594                     5*Cl3C12H23+11*Methane(g)->3*Pentachloroethane(g)+13*n-Pentane(g)
+250  0.237609  -99.325   0    6.40  0.295  21.460   -0.381  21.841                             5*Cl3C12H23+11*Propane(g)->5*Chloroform(g)+11*n-Octane(g)
+249  0.555128  -99.365   0    6.40  0.193  27.095    0.601  26.494                             5*Cl3C12H23+11*Methane(g)->11*n-Hexane(g)+5*Chloroform(g)
+242  0.313070  -99.597   0    6.40  0.257  21.546   -0.383  21.929                             5*Cl3C12H23+11*Ethane(g)->5*Chloroform(g)+11*n-Heptane(g)
+182  0.169495 -100.524   0    6.50  0.336  18.078   -0.459  18.537                4*Cl3C12H23+9*Ethane(g)->10*n-Hexane(g)+3*1,1,2,2-Tetrachloroethane(g)
+194  0.201714 -100.745   0    6.50  0.308  18.872   -0.727  19.599                4*Cl3C12H23+9*Ethane(g)->10*n-Hexane(g)+3*1,1,1,2-Tetrachloroethane(g)
+175  0.076849 -102.861   0    6.50  0.499  41.062   -2.778  43.840             4*Cl3C12H23+9*1,1-Dichloroethane(g)->8*n-Heptane(g)+5*Hexachloroethane(g)
+316  0.098372 -100.555   0    6.67  0.412  23.716   -1.280  24.996                     6*Cl3C12H23+14*n-Pentane(g)->3*Hexachloroethane(g)+17*n-Octane(g)
+314  0.324050  -98.825   0    6.67  0.227  24.731    1.266  23.465                       6*Cl3C12H23+14*Methane(g)->11*n-Heptane(g)+9*Dichloromethane(g)
+88   0.024297 -102.815   0    6.67  0.829  43.798   -3.905  47.703           3*Cl3C12H23+7*1,1,2-Trichloroethane(g)->5*Hexachloroethane(g)+5*n-Octane(g)
+95   0.042475 -101.151   0    6.67  0.627  40.586   -2.035  42.621           3*Cl3C12H23+7*1,1,1-Trichloroethane(g)->5*Hexachloroethane(g)+5*n-Octane(g)
+100  0.057052 -101.569   0    6.67  0.541  24.509   -1.270  25.779          3*Cl3C12H23+7*Chloroethane(g)->6*n-Heptane(g)+4*1,1,2,2-Tetrachloroethane(g)
+91   0.070987 -101.961   0    6.67  0.485  25.921   -1.746  27.667          3*Cl3C12H23+7*Chloroethane(g)->6*n-Heptane(g)+4*1,1,1,2-Tetrachloroethane(g)
+489  0.175071  -99.718   0    6.75  0.298  25.437   -0.954  26.391                    8*Cl3C12H23+19*Propane(g)->6*Tetrachloromethane(g)+21*n-Heptane(g)
+595  0.327958  -99.016   0    6.80  0.213  18.374    0.837  17.537                   10*Cl3C12H23+24*Methane(g)->19*n-Hexane(g)+15*1,1-Dichloroethane(g)
+589  0.109871 -102.291   0    6.80  0.368  35.110   -2.720  37.830                 10*Cl3C12H23+24*Chloroethane(g)->25*n-Hexane(g)+9*Hexachloroethane(g)
+49   0.084867  -99.567   0    7.00  0.382  15.203   -0.092  15.295                   2*Cl3C12H23+5*Propane(g)->5*n-Heptane(g)+2*1,1,2-Trichloroethane(g)
+47   0.218632 -100.635   0    7.00  0.238  16.647   -0.926  17.573                     2*Cl3C12H23+5*Ethane(g)->5*n-Hexane(g)+2*1,1,1-Trichloroethane(g)
+343  0.107129 -101.806   0    7.00  0.340  22.309   -2.204  24.513            6*Cl3C12H23+15*Chloroethane(g)->11*1,1,1-Trichloroethane(g)+10*n-Octane(g)
+336  0.041847 -100.498   0    7.00  0.544  19.785   -0.734  20.519            6*Cl3C12H23+15*Chloroethane(g)->11*1,1,2-Trichloroethane(g)+10*n-Octane(g)
+37   0.168627  -99.294   0    7.00  0.271  12.326   -0.236  12.562                       2*Cl3C12H23+5*Ethane(g)->3*1,1-Dichloroethane(g)+4*n-Heptane(g)
+206  0.294686  -99.654   0    7.00  0.205  31.796    0.122  31.674                    4*Cl3C12H23+10*Methane(g)->11*n-Pentane(g)+3*Tetrachloromethane(g)
+39   0.090952 -100.596   0    7.00  0.369  23.826   -1.222  25.048                         2*Cl3C12H23+5*n-Butane(g)->6*n-Heptane(g)+Hexachloroethane(g)
+40   0.112355  -99.921   0    7.00  0.332  15.270   -0.124  15.394                     2*Cl3C12H23+5*Ethane(g)->5*n-Hexane(g)+2*1,1,2-Trichloroethane(g)
+54   0.134005 -100.280   0    7.00  0.304  16.580   -0.894  17.474                   2*Cl3C12H23+5*Propane(g)->2*1,1,1-Trichloroethane(g)+5*n-Heptane(g)
+57   0.124020  -99.506   0    7.00  0.316  21.560    0.984  20.576                   2*Cl3C12H23+5*Methane(g)->5*n-Pentane(g)+2*1,1,2-Trichloroethane(g)
+53   0.270420 -100.219   0    7.00  0.214  22.936    0.182  22.754                   2*Cl3C12H23+5*Methane(g)->5*n-Pentane(g)+2*1,1,1-Trichloroethane(g)
+46   0.027506 -103.029   0    7.00  0.671  18.794   -2.312  21.106       2*Cl3C12H23+5*Dichloromethane(g)->3*n-Heptane(g)+4*1,1,1,2-Tetrachloroethane(g)
+44   0.070878  -99.603   0    7.00  0.418  15.189   -0.125  15.314                   2*Cl3C12H23+5*n-Butane(g)->2*1,1,2-Trichloroethane(g)+5*n-Octane(g)
+41   0.021384 -102.441   0    7.00  0.761  16.676   -1.598  18.274       2*Cl3C12H23+5*Dichloromethane(g)->3*n-Heptane(g)+4*1,1,2,2-Tetrachloroethane(g)
+51   0.102261 -100.316   0    7.00  0.348  16.566   -0.927  17.493                   2*Cl3C12H23+5*n-Butane(g)->2*1,1,1-Trichloroethane(g)+5*n-Octane(g)
+611  0.103889  -98.987   0    7.20  0.313  12.237   -0.228  12.465                   10*Cl3C12H23+26*Propane(g)->15*1,1-Dichloroethane(g)+21*n-Octane(g)
+290  0.175237 -100.909   0    7.20  0.241  33.940   -2.280  36.220               5*Cl3C12H23+13*Chloromethane(g)->11*n-Hexane(g)+7*Tetrachloromethane(g)
+512  0.030084 -102.748   0    7.25  0.567  31.025   -2.239  33.264                 8*Cl3C12H23+21*Chloroethane(g)->9*Pentachloroethane(g)+20*n-Hexane(g)
+109  0.012810 -103.733   0    7.33  0.832  36.638   -2.145  38.783            3*Cl3C12H23+8*1,1-Dichloroethane(g)->5*Pentachloroethane(g)+6*n-Heptane(g)
+393  0.021853 -103.805   0    7.33  0.637  29.907   -3.572  33.479                   6*Cl3C12H23+16*Chloroform(g)->11*n-Hexane(g)+11*Hexachloroethane(g)
+620  0.192758  -98.874   0    7.40  0.207  25.677    1.430  24.247                      10*Cl3C12H23+27*Methane(g)->22*n-Hexane(g)+15*Dichloromethane(g)
+464  0.077239 -100.877   0    7.43  0.322  39.706   -2.404  42.110              7*Cl3C12H23+19*Chloroethane(g)->10*Tetrachloromethane(g)+16*n-Heptane(g)
+232  0.126447  -99.729   0    7.50  0.242  21.577   -0.383  21.960                              4*Cl3C12H23+11*Ethane(g)->11*n-Hexane(g)+4*Chloroform(g)
+222  0.072771  -99.338   0    7.50  0.319  21.503   -0.347  21.850                            4*Cl3C12H23+11*Propane(g)->4*Chloroform(g)+11*n-Heptane(g)
+224  0.054386  -99.378   0    7.50  0.369  21.488   -0.383  21.871                            4*Cl3C12H23+11*n-Butane(g)->4*Chloroform(g)+11*n-Octane(g)
+226  0.163222  -99.272   0    7.50  0.213  28.496    0.837  27.659                            4*Cl3C12H23+11*Methane(g)->11*n-Pentane(g)+4*Chloroform(g)
+627  0.083818  -99.183   0    7.60  0.281  18.873    0.223  18.650                      10*Cl3C12H23+28*Ethane(g)->23*n-Heptane(g)+15*Dichloromethane(g)
+402  0.008386 -102.454   0    7.67  0.855  28.821   -0.904  29.725  6*Cl3C12H23+17*1,1-Dichloroethane(g)->10*n-Octane(g)+13*1,1,2,2-Tetrachloroethane(g)
+403  0.010557 -103.090   0    7.67  0.762  31.115   -1.677  32.792  6*Cl3C12H23+17*1,1-Dichloroethane(g)->13*1,1,1,2-Tetrachloroethane(g)+10*n-Octane(g)
+536  0.107880  -98.936   0    7.75  0.227  19.583    1.041  18.542                   8*Cl3C12H23+23*Methane(g)->19*n-Pentane(g)+12*1,1-Dichloroethane(g)
+632  0.047224  -98.839   0    7.80  0.333  18.772    0.231  18.541                      10*Cl3C12H23+29*Propane(g)->15*Dichloromethane(g)+24*n-Octane(g)
+9    0.032281 -100.228   0    8.00  0.356  33.302   -1.372  34.674                            Cl3C12H23+3*Chloroethane(g)->2*Chloroform(g)+2*n-Octane(g)
+10   0.029724 -102.124   0    8.00  0.371  23.494   -2.435  25.929                Cl3C12H23+3*Chloroethane(g)->2*1,1,1-Trichloroethane(g)+2*n-Heptane(g)
+11   0.011595 -100.697   0    8.00  0.594  20.741   -0.831  21.572                Cl3C12H23+3*Chloroethane(g)->2*n-Heptane(g)+2*1,1,2-Trichloroethane(g)
+256  0.005636 -102.932   0    8.00  0.852  16.422   -1.825  18.247       4*Cl3C12H23+12*Dichloromethane(g)->7*n-Hexane(g)+9*1,1,2,2-Tetrachloroethane(g)
+254  0.007254 -103.593   0    8.00  0.751  18.804   -2.628  21.432       4*Cl3C12H23+12*Dichloromethane(g)->7*n-Hexane(g)+9*1,1,1,2-Tetrachloroethane(g)
+73   0.011713 -103.694   0    8.00  0.591  46.838   -3.286  50.124              2*Cl3C12H23+6*1,1-Dichloroethane(g)->5*n-Hexane(g)+3*Hexachloroethane(g)
+72   0.011402 -102.022   0    8.00  0.599  26.384   -1.501  27.885           2*Cl3C12H23+6*Chloroethane(g)->5*n-Hexane(g)+3*1,1,2,2-Tetrachloroethane(g)
+71   0.060521  -99.413   0    8.00  0.260  12.354   -0.235  12.589                        2*Cl3C12H23+6*Ethane(g)->5*n-Hexane(g)+3*1,1-Dichloroethane(g)
+65   0.014294 -102.462   0    8.00  0.535  27.972   -2.036  30.008           2*Cl3C12H23+6*Chloroethane(g)->5*n-Hexane(g)+3*1,1,1,2-Tetrachloroethane(g)
+8    0.007177 -101.337   0    8.00  0.755  45.426   -2.231  47.657            Cl3C12H23+3*1,1,1-Trichloroethane(g)->2*n-Heptane(g)+2*Hexachloroethane(g)
+12   0.003886 -103.477   0    8.00  1.026  49.555   -4.636  54.191            Cl3C12H23+3*1,1,2-Trichloroethane(g)->2*n-Heptane(g)+2*Hexachloroethane(g)
+
+
+
+
+---------------------------------------------------------------------
+10 reactions with the worst weights:
+---------------------------------------------------------------------
+       weight      dfH  dn  n+|dn|      u     drH  ddHcorr     drE                                                                   reaction_names
+12   0.003886 -103.477   0     8.0  1.026  49.555   -4.636  54.191       Cl3C12H23+3*1,1,2-Trichloroethane(g)->2*n-Heptane(g)+2*Hexachloroethane(g)
+256  0.005636 -102.932   0     8.0  0.852  16.422   -1.825  18.247  4*Cl3C12H23+12*Dichloromethane(g)->7*n-Hexane(g)+9*1,1,2,2-Tetrachloroethane(g)
+8    0.007177 -101.337   0     8.0  0.755  45.426   -2.231  47.657       Cl3C12H23+3*1,1,1-Trichloroethane(g)->2*n-Heptane(g)+2*Hexachloroethane(g)
+254  0.007254 -103.593   0     8.0  0.751  18.804   -2.628  21.432  4*Cl3C12H23+12*Dichloromethane(g)->7*n-Hexane(g)+9*1,1,1,2-Tetrachloroethane(g)
+72   0.011402 -102.022   0     8.0  0.599  26.384   -1.501  27.885      2*Cl3C12H23+6*Chloroethane(g)->5*n-Hexane(g)+3*1,1,2,2-Tetrachloroethane(g)
+11   0.011595 -100.697   0     8.0  0.594  20.741   -0.831  21.572           Cl3C12H23+3*Chloroethane(g)->2*n-Heptane(g)+2*1,1,2-Trichloroethane(g)
+73   0.011713 -103.694   0     8.0  0.591  46.838   -3.286  50.124         2*Cl3C12H23+6*1,1-Dichloroethane(g)->5*n-Hexane(g)+3*Hexachloroethane(g)
+65   0.014294 -102.462   0     8.0  0.535  27.972   -2.036  30.008      2*Cl3C12H23+6*Chloroethane(g)->5*n-Hexane(g)+3*1,1,1,2-Tetrachloroethane(g)
+10   0.029724 -102.124   0     8.0  0.371  23.494   -2.435  25.929           Cl3C12H23+3*Chloroethane(g)->2*1,1,1-Trichloroethane(g)+2*n-Heptane(g)
+71   0.060521  -99.413   0     8.0  0.260  12.354   -0.235  12.589                   2*Cl3C12H23+6*Ethane(g)->5*n-Hexane(g)+3*1,1-Dichloroethane(g)
+
+
+
+
+---------------------------------------------------------------------
+10 reactions with the worst dHf:
+---------------------------------------------------------------------
+       weight      dfH  dn  n+|dn|      u     drH  ddHcorr     drE                                                                        reaction_names
+393  0.021853 -103.805   0    7.33  0.637  29.907   -3.572  33.479                   6*Cl3C12H23+16*Chloroform(g)->11*n-Hexane(g)+11*Hexachloroethane(g)
+109  0.012810 -103.733   0    7.33  0.832  36.638   -2.145  38.783            3*Cl3C12H23+8*1,1-Dichloroethane(g)->5*Pentachloroethane(g)+6*n-Heptane(g)
+73   0.011713 -103.694   0    8.00  0.591  46.838   -3.286  50.124              2*Cl3C12H23+6*1,1-Dichloroethane(g)->5*n-Hexane(g)+3*Hexachloroethane(g)
+254  0.007254 -103.593   0    8.00  0.751  18.804   -2.628  21.432       4*Cl3C12H23+12*Dichloromethane(g)->7*n-Hexane(g)+9*1,1,1,2-Tetrachloroethane(g)
+12   0.003886 -103.477   0    8.00  1.026  49.555   -4.636  54.191            Cl3C12H23+3*1,1,2-Trichloroethane(g)->2*n-Heptane(g)+2*Hexachloroethane(g)
+227  0.059780 -103.170   0    6.00  0.676  24.019   -2.451  26.470              5*Cl3C12H23+10*Dichloromethane(g)->7*Pentachloroethane(g)+8*n-Heptane(g)
+359  0.073596 -103.129   0    6.29  0.553  28.694   -3.117  31.811                  7*Cl3C12H23+15*Chloroform(g)->11*n-Heptane(g)+11*Hexachloroethane(g)
+504  0.045426 -103.091   0    6.22  0.720  33.358   -1.911  35.269          9*Cl3C12H23+19*1,1-Dichloroethane(g)->13*Pentachloroethane(g)+15*n-Octane(g)
+403  0.010557 -103.090   0    7.67  0.762  31.115   -1.677  32.792  6*Cl3C12H23+17*1,1-Dichloroethane(g)->13*1,1,1,2-Tetrachloroethane(g)+10*n-Octane(g)
+46   0.027506 -103.029   0    7.00  0.671  18.794   -2.312  21.106       2*Cl3C12H23+5*Dichloromethane(g)->3*n-Heptane(g)+4*1,1,1,2-Tetrachloroethane(g)
